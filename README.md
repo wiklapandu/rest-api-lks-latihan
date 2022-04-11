@@ -89,18 +89,3 @@ Enter to submit
         </tr>
     </tbody>
 </table>
-
-<style>
-    thead tr {
-        background-color: white;
-        color: black;
-        border-color: black;
-    }
-    tbody tr{
-        background-color: #212529;
-
-    }
-    tbody tr:nth-child(odd){
-        background-color: #2C3034;
-    }
-</style>
